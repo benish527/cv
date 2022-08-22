@@ -1,0 +1,36 @@
+body {
+  background-color: #C8C6C6;
+}
+
+hr {
+  border-style: none;
+  border-bottom-style: dotted;
+  border-width: 5px;
+  border-color: gray;
+  width: 50px;
+}
+
+h1 {
+  color: #3FA796
+}
+
+h2 {
+  color: #3FA796;
+}
+
+h3 {
+  color: #3FA796;
+  text-decoration: underline;
+  text-decoration-color: #F5F0BB;
+}
+
+h4 {
+  color: #3FA796;
+  text-decoration: underline;
+  text-decoration-color: #F5F0BB;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
